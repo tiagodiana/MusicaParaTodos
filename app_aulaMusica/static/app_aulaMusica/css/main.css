@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Luckiest+Guy|Patrick+Hand&display=swap');
+
+.font_fredoka{
+    font-family: 'Fredoka One', cursive;
+}
+.font_luckiest{
+    font-family: 'Luckiest Guy', cursive;
+}
+.font_patrick{
+    font-family: 'Patrick Hand', cursive;
+}
+
+.bg-foto1{
+    background-image: url("../image/image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg_dark{
+    background-color: rgba(255, 254, 240, 0.7);
+}
+.bg_claro{
+    background: rgba(100,100,100, 0.5);
+}
+
+.shadow{
+    box-shadow: 5px 5px 10px #1b1e21;
+}
+
+.txt_nav{
+    font-size: 15pt;
+    color: #000;
+    text-shadow: 2px 2px 5px rgba(0,0,0,.8);
+    margin: 0 10px;
+}
+
+.txt_prin {
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+.txt_nav:hover{
+
+}
