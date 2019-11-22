@@ -1,5 +1,5 @@
-# Musica para Todos
-## Site desenvolvido em Django usando Docker
+<h1 align="center">Musica para Todos</h1>
+<h2 align="center">Site desenvolvido em Django usando Docker</h2>
 
 ### Dependencias:
   <ul>
