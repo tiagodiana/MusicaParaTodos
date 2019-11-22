@@ -1,2 +1,2 @@
 # Musica para Todos
-Site desenvolvido em Django
+Site desenvolvido em Django usando Docker
