@@ -1,14 +1,21 @@
 # Musica para Todos
-Site desenvolvido em Django usando Docker
+## Site desenvolvido em Django usando Docker
 
-Dependencias:
-  docker
-  docker-compose
-  
+### Dependencias:
+  <ul>
+  <li>docker</li>
+  <li>docker-compose</li>
+  </ul>
+ <br>
+### Rodando a aplicação Arch Linux:
+  <ul>
+  <li>Depois de clonar o projeto entre no diretório app_aulaMusica e rode o comando:</li>
+     <ul>
+       <li>docker-compose up</li>
+     </ul>
  
-Rodando a aplicação Arch Linux:
-  Depois de clonar o projeto entre no diretório app_aulaMusica e rode o comando:
-    docker-compose up
-  
-  Abra o navegador e acesse:
-    localhost:8000
+  <li>Abra o navegador e acesse:</li>
+    <ul>
+      <li>localhost:8000</li>
+    </ul>
+  </ul>
