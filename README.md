@@ -6,8 +6,7 @@
   <li>docker</li>
   <li>docker-compose</li>
   </ul>
- <br>
- 
+  
 ### Rodando a aplicação no Linux:
   <ul>
   <li>Depois de clonar o projeto entre no diretório app_aulaMusica e rode o comando:</li>
