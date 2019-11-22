@@ -11,7 +11,7 @@
   <ul>
   <li>Depois de clonar o projeto entre no diretório app_aulaMusica e rode o comando:</li>
      <ul>
-       <li>docker-compose up</li>
+       <li>sudo docker-compose up</li>
      </ul>
  
   <li>Abra o navegador e acesse:</li>
