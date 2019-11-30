@@ -10,6 +10,7 @@
  ### Instalando depêndecias:
  ### Arch Linux:
   <ul>
+  <li>sudo pacman -Syu</li>
   <li>sudo pacman -S docker docker-compose</li>
   <li>sudo systemctl start docker</li>
   <li>sudo systemctl enable docker (caso queira que o docker inicie assim que o sistema ligar)</li>
@@ -17,8 +18,7 @@
  
 ### Debian:
   <ul>
-    <li></li>
-    
+    <li>sudo apt install docker.io docker-compose</li>
   </ul>
   
 ### Rodando a aplicação no Linux:
